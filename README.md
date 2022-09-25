@@ -8,4 +8,4 @@ This is my first change to a readme file on github.  Whaaahooo!
 
 
 testing the app and how I update
-s
+still
